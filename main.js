@@ -10,7 +10,7 @@ const LINKEDIN_URL = "https://www.linkedin.com/in/ananyalamba01/";
 const GITHUB_URL = "https://github.com/AnanyaLamba";
 
 // Command related constants
-const ALL_SUPPORTED_CMDS = "help, bio, linkedin, github, contact, date. But don't try to gain access by running commands like sudo";
+const ALL_SUPPORTED_CMDS = "help, bio, linkedin, resume, github, contact, date. But don't try to gain access by running commands like sudo";
 const CMDS_COMING_SOON = "These commands will come soon: projects, clear, home"
 
 
