@@ -5,8 +5,8 @@ const GET_STARTED_NODE_ID = 'getStartedNodeId'; //* jaha se char by char print h
 const INPUT_COMMAND_STRIP_ID = 'inputCommandStrip';
 const INITIAL_SECTION_ID = 'initialSection';
 const LAST_UPDATED = "August 17th, 2024 02:55";
-const RESUME_URL = "http://google.com";
-const LINKEDIN_URL = "https://www.linkedin.com/in/ananya-lamba/";
+const RESUME_URL = "https://drive.google.com/file/d/1DYUMf3Wtq6lDPGZtJs-PWcGFEmMSMZeW/view?usp=sharing";
+const LINKEDIN_URL = "https://www.linkedin.com/in/ananyalamba01/";
 const GITHUB_URL = "https://github.com/AnanyaLamba";
 
 // Command related constants
@@ -17,7 +17,7 @@ const CMDS_COMING_SOON = "These commands will come soon: projects, clear, home"
 // club commands based on results
 const SPECIAL_CMDS = ['ananya', 'projects'];
 const DEBUG_CMDS = ['h'];
-// const RESUME_CMDS = ['resume', 'biodata', 'cv'];
+const RESUME_CMDS = ['resume', 'biodata', 'cv'];
 const BIO_CMDS = ['bio', 'about', 'biography', 'info', 'intro'];
 const CONTACT_CMDS = ['contact', 'email'];
 const LINKEDIN_CMDS = ['linkedin'];
@@ -143,7 +143,7 @@ const HELP_CMD_PREFIX_LIST = ["Try one of the following commands",
 
 const BIO_RESULT = "Motivated and enthusiastic Software Developer with a strong foundation in programming languages such as C++, C and JavaScript. Skilled in full-stack development and eager to contribute to innovative projects. Quick learner with excellent problem-solving abilities and a passion for technology.";
 
-// const RESUME_RESULT = "Thanks for the query. Get my resume here: " + RESUME_URL + ". Hold on, opening in a new tab. Please check if the pop-ups are not blocked";
+const RESUME_RESULT = "Thanks for the query. Get my resume here: " + RESUME_URL + ". Hold on, opening in a new tab. Please check if the pop-ups are not blocked";
 
 const CONTACT_RESULT = "Ananya is reachable at: alisherkhan032@gmail.com. You maybe be looking for the following commands: linkedin, github, about";
 
