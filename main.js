@@ -141,7 +141,7 @@ const HELP_CMD_PREFIX_LIST = ["Try one of the following commands",
     "These are the only commands that will be processed successfully by the system",
 ];
 
-const BIO_RESULT = "Motivated and enthusiastic Software Developer with a strong foundation in programming languages such as C++, C and JavaScript. Skilled in full-stack development and eager to contribute to innovative projects. Quick learner with excellent problem-solving abilities and a passion for technology.";
+const BIO_RESULT = "Motivated and enthusiastic Software Developer with a strong foundation in languages such as SQL, C++, C and JavaScript. Skilled in full-stack development and eager to contribute to innovative projects. Quick learner with excellent problem-solving abilities and a passion for technology.";
 
 const RESUME_RESULT = "Thanks for the query. Get my resume here: " + RESUME_URL + ". Hold on, opening in a new tab. Please check if the pop-ups are not blocked";
 
