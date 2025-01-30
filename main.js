@@ -5,7 +5,7 @@ const GET_STARTED_NODE_ID = 'getStartedNodeId'; //* jaha se char by char print h
 const INPUT_COMMAND_STRIP_ID = 'inputCommandStrip';
 const INITIAL_SECTION_ID = 'initialSection';
 const LAST_UPDATED = "August 17th, 2024 02:55";
-const RESUME_URL = "https://drive.google.com/file/d/1DYUMf3Wtq6lDPGZtJs-PWcGFEmMSMZeW/view?usp=sharing";
+const RESUME_URL = "https://drive.google.com/file/d/1cqwgogEkiw0fedY5_GBXBdz3XkzOrhqz/view?usp=sharing";
 const LINKEDIN_URL = "https://www.linkedin.com/in/ananyalamba01/";
 const GITHUB_URL = "https://github.com/AnanyaLamba";
 
