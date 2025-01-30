@@ -145,7 +145,7 @@ const BIO_RESULT = "Motivated and enthusiastic Software Developer with a strong 
 
 const RESUME_RESULT = "Thanks for the query. Get my resume here: " + RESUME_URL + ". Hold on, opening in a new tab. Please check if the pop-ups are not blocked";
 
-const CONTACT_RESULT = "Ananya is reachable at: alisherkhan032@gmail.com. You maybe be looking for the following commands: linkedin, github, about";
+const CONTACT_RESULT = "Ananya is reachable at: ananyalamba2002@gmail.com. You maybe be looking for the following commands: linkedin, github, about";
 
 const LINKEDIN_RESULT = "Connect with Ananya on LinkedIn here: " + LINKEDIN_URL + ". Hold on, opening in a new tab. Please check if the pop-ups are not blocked";
 
